@@ -7,7 +7,7 @@ const projectsData = [
     {
         id: 1,
         title: "EventEase",
-        description: "Project 1 description",
+        description: "An Event organization platform designed to streamline the process of planning, organizing, and participating in various events. Allows users to create and manage events of all types, with features such as search and filtering.Web app also integrates secure payment processing through Stripe, enabling online transactions for event registrations and ticket purchases. Technology - Ui/Ux,Next js,Node js,Mongo DB",
         image: "/images/1.png",
         tag: ["All","Web"],
         gitUrl:"https://github.com/AditiVadi/eventease",
@@ -17,7 +17,7 @@ const projectsData = [
     {
         id: 2,
         title: "Serve Us (Urban Service)",
-        description: "Project 2 description",
+        description: "A web application for socializing urban services, allowing users to connect as either a service provider or a service seeker and store each in a database.Serve the services and be compensated, or seek a service and pay the provider.Technology: React JS, TailwindCSS , Material UI",
         image: "/images/22.png",
         tag: ["All","Web"],
         gitUrl:"https://github.com/AditiVadi/ServeUs",
@@ -26,7 +26,7 @@ const projectsData = [
     {
         id: 3,
         title: "Nike Shoes Site",
-        description: "Project 3 description",
+        description: "A web site of Nike Shoes site which describe New Arrival of Nike Shoes.Technology - React JS |Tailwind CSS",
         image: "/images/3.png",
         tag: ["All","Web"],
         gitUrl:"https://github.com/AditiVadi/Nike-Aditi-.github.io",
