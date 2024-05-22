@@ -35,7 +35,7 @@ const projectsData = [
     {
         id: 4,
         title: "NoteScribe",
-        description: "Project 4 description",
+        description: "NoteScribe is a dynamic website designed to help users stay organized by combining a to-do list and note-keeping features. Built with HTML, CSS, and JavaScript, it offers an intuitive platform for managing tasks and notes efficiently, with capabilities like setting due dates, prioritizing tasks, and organizing notes. The website is responsive across various devices, ensuring a seamless user experience.",
         image: "/images/4.png",
         tag: ["All","Web"],
         gitUrl:"https://github.com/AditiVadi/NoteScribe",
@@ -50,10 +50,10 @@ const projectsData = [
         gitUrl:"https://github.com/AditiVadi/CryptoSphere",
         previewUrl:"/"
     },
-    {
+    { 
         id: 6,
         title: "Library-System-Management",
-        description: "Project 6 description",
+        description: "The Library Management System consists of an Admin Panel and a Student Panel.Admin Panel,administrators can view book data, due dates, and issue records including student names Student Panel enables students to search for books and perform actions such as renewal,issuance, and submission online. Technology : Html | CSS | Javascript",
         image: "/images/6.png",
         tag: ["All","Web"],
         gitUrl:"https://github.com/AditiVadi/Library-System-Management",
