@@ -44,7 +44,7 @@ const projectsData = [
     {
         id: 5,
         title: "CoinSphere",
-        description: "Project 5 description",
+        description: "A web based application to transfer cryptocurrency such as ethereum from one account to another using metamask with message and keys and also with GIPHY messages.",
         image: "/images/5.png",
         tag: ["All","Web"],
         gitUrl:"https://github.com/AditiVadi/CryptoSphere",
