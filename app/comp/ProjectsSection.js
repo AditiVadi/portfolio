@@ -5,7 +5,7 @@ import ProjectTag from './ProjectTag';
 import { motion, useInView } from "framer-motion";
 const projectsData = [
   { 
-    id: 7,
+    id: 1,
     title: "Think Estate",
     description: "Think Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods Technology : MongoDB, Express, React, Node and Firebase",
     image: "/images/7.png",
@@ -14,7 +14,7 @@ const projectsData = [
     previewUrl:"https://mern-estate-vmow.onrender.com/"
 },
     {
-        id: 1,
+        id: 2,
         title: "EventEase",
         description: "An Event organization platform designed to streamline the process of planning, organizing, and participating in various events. Allows users to create and manage events of all types, with features such as search and filtering.Web app also integrates secure payment processing through Stripe, enabling online transactions for event registrations and ticket purchases. Technology - Ui/Ux,Next js,Node js,Mongo DB",
         image: "/images/1.png",
@@ -24,7 +24,7 @@ const projectsData = [
 
     },
     {
-        id: 2,
+        id: 3,
         title: "Serve Us (Urban Service)",
         description: "A web application for socializing urban services, allowing users to connect as either a service provider or a service seeker and store each in a database.Serve the services and be compensated, or seek a service and pay the provider.Technology: React JS, TailwindCSS , Material UI",
         image: "/images/22.png",
@@ -33,7 +33,7 @@ const projectsData = [
         previewUrl:"/"
     },
     {
-        id: 3,
+        id: 4,
         title: "Nike Shoes Site",
         description: "A web site of Nike Shoes site which describe New Arrival of Nike Shoes.Technology - React JS |Tailwind CSS",
         image: "/images/3.png",
@@ -42,7 +42,7 @@ const projectsData = [
         previewUrl:"https://nike-aditi-github-io.vercel.app/"
     },
     {
-        id: 4,
+        id: 5,
         title: "NoteScribe",
         description: "NoteScribe is a dynamic website designed to help users stay organized by combining a to-do list and note-keeping features. Built with HTML, CSS, and JavaScript, it offers an intuitive platform for managing tasks and notes efficiently, with capabilities like setting due dates, prioritizing tasks, and organizing notes. The website is responsive across various devices, ensuring a seamless user experience.",
         image: "/images/4.png",
@@ -51,7 +51,7 @@ const projectsData = [
         previewUrl:""
     },
     {
-        id: 5,
+        id: 6,
         title: "CoinSphere",
         description: "A web based application to transfer cryptocurrency such as ethereum from one account to another using metamask with message and keys and also with GIPHY messages.",
         image: "/images/5.png",
@@ -60,7 +60,7 @@ const projectsData = [
         previewUrl:"/"
     },
     { 
-        id: 6,
+        id: 7,
         title: "Library-System-Management",
         description: "The Library Management System consists of an Admin Panel and a Student Panel.Admin Panel,administrators can view book data, due dates, and issue records including student names Student Panel enables students to search for books and perform actions such as renewal,issuance, and submission online. Technology : Html | CSS | Javascript",
         image: "/images/6.png",
