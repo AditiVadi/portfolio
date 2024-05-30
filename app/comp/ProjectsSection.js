@@ -59,6 +59,15 @@ const projectsData = [
         gitUrl:"https://github.com/AditiVadi/Library-System-Management",
         previewUrl:"https://library-system-management.vercel.app/index.html"
     },
+    { 
+      id: 7,
+      title: "Think Estate",
+      description: "Think Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods Technology : MongoDB, Express, React, Node and Firebase",
+      image: "/images/7.png",
+      tag: ["All","Web"],
+      gitUrl:"https://github.com/AditiVadi/Real_Estate",
+      previewUrl:"https://mern-estate-vmow.onrender.com/"
+  },
 ]
 
 const ProjectsSection = () => {
