@@ -61,7 +61,7 @@ const HeroSection = () => {
             >
 
               <button onClick={handleViewPDF}
-              className="block bg-[#121212] sm:w-fit hover:bg-slate-800 rounded-full px-4 py-2 sm:px-5 sm:py-2 md:px-6 md:py-3 lg:px-8 lg:py-4 text-xs sm:text-sm md:text-base lg:text-lg">
+              className="block bg-[#121212] hover:bg-slate-800 rounded-full px-4 py-2 sm:px-5 sm:py-3 md:px-6 md:py-3 lg:px-8 lg:py-4 text-xs sm:text-sm md:text-base lg:text-lg">
                 Download Resume
               </button>
             </Link>
