@@ -75,7 +75,7 @@ const projectsData = [
         image: "/images/23.png",
         tag: ["All","ML"],
         gitUrl:"https://ieeexplore.ieee.org/abstract/document/10511794",
-        previewUrl:"/"
+        previewUrl:"https://ieeexplore.ieee.org/abstract/document/10511794"
     },
     
 ]
