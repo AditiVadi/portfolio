@@ -68,6 +68,15 @@ const projectsData = [
         gitUrl:"https://github.com/AditiVadi/Library-System-Management",
         previewUrl:"https://library-system-management.vercel.app/index.html"
     },
+    {
+        id: 8,
+        title: "Skin Disease Classification",
+        description: "Skin Disease Classification using Pre-Trained Convolution Neural Network with Transfer Learning",
+        image: "/images/23.png",
+        tag: ["All","ML"],
+        gitUrl:"https://ieeexplore.ieee.org/abstract/document/10511794",
+        previewUrl:"/"
+    },
     
 ]
 
