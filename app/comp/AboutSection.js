@@ -33,6 +33,7 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
+        <li>Google IT Automation with Python</li>
         <li>Google Google UX Design Specialization</li>
         <li>The Full Stack by Meta</li>
         <li> Supervised Machine Learning: Regression and Classification</li>
