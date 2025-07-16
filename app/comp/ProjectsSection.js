@@ -77,6 +77,15 @@ const projectsData = [
         gitUrl:"https://ieeexplore.ieee.org/abstract/document/10511794",
         previewUrl:"https://ieeexplore.ieee.org/abstract/document/10511794"
     },
+    {
+        id: 9,
+        title: "AI Snake Game using Deep Q-Learning",
+        description: "Developed a Snake game AI using Python, PyTorch, and Deep Q-Learning, with real-time visualization in Pygame",
+        image: "/images/24.png",
+        tag: ["All","ML"],
+        gitUrl:"https://github.com/AditiVadi/snake_learns",
+        previewUrl:"https://drive.google.com/file/d/1eCh0ZTxubG5Uv8c-PtCygPTcb26bquKq/view?usp=sharing"
+    },
     
 ]
 
