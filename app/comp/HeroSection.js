@@ -50,21 +50,21 @@ const HeroSection = () => {
             well in a team environment.</p>
           <div>
             <Link
-              href="/#contact"
+              href="https://www.linkedin.com/in/aditi-vadi-a0a865229/"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
               Hire Me
-            </Link>
-            <Link
-              href="/"
-              className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
-            >
+            // </Link>
+            // <Link
+            //   href="/"
+            //   className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
+            // >
 
-              <button onClick={handleViewPDF}
-              className="block bg-[#121212] hover:bg-slate-800 rounded-full px-4 py-2 sm:px-5 sm:py-3 md:px-6 md:py-3 lg:px-8 lg:py-4 text-xs sm:text-sm md:text-base lg:text-lg">
-                Download Resume
-              </button>
-            </Link>
+            //   <button onClick={handleViewPDF}
+            //   className="block bg-[#121212] hover:bg-slate-800 rounded-full px-4 py-2 sm:px-5 sm:py-3 md:px-6 md:py-3 lg:px-8 lg:py-4 text-xs sm:text-sm md:text-base lg:text-lg">
+            //     Download Resume
+            //   </button>
+            // </Link>
           </div>
         </motion.div>
         <motion.div
@@ -87,5 +87,6 @@ const HeroSection = () => {
     </section>
   );
 };
+
 
 export default HeroSection;
