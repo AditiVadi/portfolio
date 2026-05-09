@@ -8,14 +8,20 @@ const TAB_DATA = [
     title: "Skills",
     id: "skills",
     content: (
-      <ul className="list-disc pl-2">
-        <li>Web Development- HTML5, CSS, Tailwind CSS, React, Material UI,PHP, Mongo DB
-        </li>
-        <li>Designing-UI/UX(Figma)</li>
-        <li>Programming Language- Java, C++, C, Python
-        </li>
-        <li>Machine Learning( Transfer Learning)</li>
-      </ul>
+ <ul className="list-disc pl-2">
+  <li>
+    AI & Machine Learning – LLM Evaluation, Prompt Engineering, NLP, Transfer Learning, CNNs, Scikit-learn, XGBoost
+  </li>
+  <li>
+    Backend & MLOps – Python, FastAPI, REST APIs, Docker, MLflow, Airflow, GitLab CI/CD
+  </li>
+  <li>
+    Databases & Tools – MySQL, MongoDB, PostgreSQL, Git, GitHub, Linux, Postman
+  </li>
+  <li>
+    Programming Languages – Python, JavaScript, SQL, Java
+  </li>
+</ul>
     ),
   },
   {
@@ -36,7 +42,8 @@ const TAB_DATA = [
         <li>Google IT Automation with Python</li>
         <li>Google Google UX Design Specialization</li>
         <li>The Full Stack by Meta</li>
-        <li> Supervised Machine Learning: Regression and Classification</li>
+        <li>Supervised Machine Learning: Regression and Classification</li>
+        <li>Promt Engineering for Everyone from CongnitiveClass.ai</li>
       </ul>
     ),
   },
@@ -59,11 +66,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a web developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, SQL, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
+            I am an AI/ML and Software Engineering enthusiast with a passion for building intelligent, scalable, and reliable applications. I have experience working with Python, Machine Learning, FastAPI, LLM evaluation, CI/CD automation, and MLOps pipelines. I am a quick learner who enjoys exploring new AI technologies, improving system quality, and solving complex problems. I am a collaborative team player excited to contribute to innovative AI-driven solutions and real-world applications.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
