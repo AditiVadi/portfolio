@@ -34,7 +34,7 @@ const HeroSection = () => {
                 1000, // wait 1s before replacing "Mice" with "Hamsters"
                 'Web Developer',
                 1000,
-                'UI/UX Designer',
+                'MLOps engineer',
                 1000,
                 'ML Enthusiast',
                 1000
@@ -44,10 +44,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>Motivated and Enthusiastic student seeking an internship opportunity in Web
-            Designing or Web Developer or AI/ML. Possesses a strong work ethic, attention to
-            details, and willingness to learn. Strong problem-solving skills, ability to work
-            well in a team environment.</p>
+          <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>Motivated and detail-oriented AI/ML and Software Engineering enthusiast seeking opportunities in AI/ML, MLOps, and Backend Development. Skilled in Python, Machine Learning, LLM Evaluation, FastAPI, and CI/CD automation, with hands-on experience in developing scalable ML systems and automation frameworks. Strong problem-solving abilities, quick learning mindset, and effective collaboration skills with a passion for building reliable AI-driven solutions.</p>
           <div>
             <Link
               href="https://www.linkedin.com/in/aditi-vadi-a0a865229/"
@@ -60,10 +57,10 @@ const HeroSection = () => {
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
 
-              <button onClick={handleViewPDF}
-              className="block bg-[#121212] hover:bg-slate-800 rounded-full px-4 py-2 sm:px-5 sm:py-3 md:px-6 md:py-3 lg:px-8 lg:py-4 text-xs sm:text-sm md:text-base lg:text-lg">
-                Download Resume
-              </button>
+              // <button onClick={handleViewPDF}
+              // className="block bg-[#121212] hover:bg-slate-800 rounded-full px-4 py-2 sm:px-5 sm:py-3 md:px-6 md:py-3 lg:px-8 lg:py-4 text-xs sm:text-sm md:text-base lg:text-lg">
+              //   Download Resume
+              // </button>
             </Link>
           </div>
         </motion.div>
