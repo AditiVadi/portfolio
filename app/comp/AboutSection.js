@@ -8,18 +8,28 @@ const TAB_DATA = [
     title: "Skills",
     id: "skills",
     content: (
- <ul className="list-disc pl-2">
+ <ul className="list-disc pl-2 space-y-2">
   <li>
-    AI & Machine Learning – LLM Evaluation, Prompt Engineering, NLP, Transfer Learning, CNNs, Scikit-learn, XGBoost
+    <strong>Backend Development & APIs:</strong> Python, FastAPI, Node.js, Express.js, REST APIs, Authentication, Microservices
   </li>
   <li>
-    Backend & MLOps – Python, FastAPI, REST APIs, Docker, MLflow, Airflow, GitLab CI/CD
+    <strong>AI & Machine Learning:</strong> LLM Evaluation, Prompt Engineering, NLP, Transfer Learning, CNNs, Scikit-learn, XGBoost, Model Optimization
   </li>
+
   <li>
-    Databases & Tools – MySQL, MongoDB, PostgreSQL, Git, GitHub, Linux, Postman
+    <strong>MLOps & DevOps:</strong> Docker, MLflow, GitLab CI/CD, Kubernetes, Deployment Automation, Monitoring Pipelines
   </li>
+
   <li>
-    Programming Languages – Python, JavaScript, SQL, Java
+    <strong>Databases & Cloud Tools:</strong> MySQL, PostgreSQL, MongoDB, Redis, Git, GitHub, Linux, Postman
+  </li>
+
+  <li>
+    <strong>Frontend & Full-Stack Development:</strong> React.js, Next.js, Redux Toolkit, Tailwind CSS, MERN Stack
+  </li>
+
+  <li>
+    <strong>Programming Languages:</strong> Python, JavaScript, SQL, Java, C++
   </li>
 </ul>
     ),
@@ -66,7 +76,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am an AI/ML and Software Engineering enthusiast with a passion for building intelligent, scalable, and reliable applications. I have experience working with Python, Machine Learning, FastAPI, LLM evaluation, CI/CD automation, and MLOps pipelines. I am a quick learner who enjoys exploring new AI technologies, improving system quality, and solving complex problems. I am a collaborative team player excited to contribute to innovative AI-driven solutions and real-world applications.
+           I am a Software Engineer and AI/ML enthusiast with experience in building scalable full-stack applications, backend APIs, and AI-powered systems. My expertise includes Python, FastAPI, Machine Learning, CI/CD automation, MLOps pipelines, Docker, and cloud-based deployment workflows. I enjoy designing efficient systems, improving application reliability, and integrating AI into real-world products. I am a quick learner, collaborative team player, and passionate about developing innovative and high-performance software solutions.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
