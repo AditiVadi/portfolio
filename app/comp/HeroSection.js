@@ -44,7 +44,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>Motivated and detail-oriented AI/ML and Software Engineering enthusiast seeking opportunities in AI/ML, MLOps, and Backend Development. Skilled in Python, Machine Learning, LLM Evaluation, FastAPI, and CI/CD automation, with hands-on experience in developing scalable ML systems and automation frameworks. Strong problem-solving abilities, quick learning mindset, and effective collaboration skills with a passion for building reliable AI-driven solutions.</p>
+          <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>Motivated and detail-oriented Software Developer with a strong interest in AI/ML, Backend Engineering, and scalable application development. Skilled in Python, JavaScript, FastAPI, REST APIs, Full-Stack Development, CI/CD automation, and database management, with hands-on experience building intelligent and production-ready applications. Experienced in developing scalable backend systems, automation pipelines, and AI-driven solutions using modern development and DevOps practices. Passionate about problem-solving, system optimization, and building reliable software solutions, with a quick learning mindset and strong collaboration skills.</p>
           <div>
             <Link
               href="https://www.linkedin.com/in/aditi-vadi-a0a865229/"
